@@ -66,7 +66,7 @@
 
     <mj-section background-color="#313131" padding="0">
       <mj-column>
-        <mj-image width="24px" align="center" padding="24px" src="./img/apple.png" />
+        <mj-image width="24px" align="center" padding="24px" src="https://i.ibb.co/GTN2XZk/apple.png" />
       </mj-column>
     </mj-section>
 
@@ -78,14 +78,14 @@
           </mj-text>
           <mj-button css-class="link" href="https://www.apple.com/ua/" target="_blank" font-family="Verdana" font-size="15px" font-weight="bold" background-color="transparent" color="#51ACFF" line-height="18px">
           Buy now
-          <img src="./img/arrow.png" />
+          <img src="https://i.ibb.co/RTwxC2B/arrow.png" />
           </mj-button>
         </mj-column>
       </mj-section>
       
       <mj-section padding="0" padding-bottom="40px">
         <mj-column>
-          <mj-image align="center" src="./img/mac.png" />
+          <mj-image align="center" src="https://i.ibb.co/54p5qNF/mac.png" />
         </mj-column>
       </mj-section>
       
@@ -96,7 +96,7 @@
             <div class="value">3.2x</div>
             <div class="advantage">faster render</div>
           </mj-text>
-          <mj-image align="left" src="./img/line.png" />
+          <mj-image align="left" src="https://i.ibb.co/VptdDLM/line.png" />
         </mj-column>
         <mj-column>
           <mj-text>
@@ -104,7 +104,7 @@
             <div class="value">8+</div>
             <div class="advantage">streams of 4k video</div>
           </mj-text>
-          <mj-image align="left" src="./img/line.png" />
+          <mj-image align="left" src="https://i.ibb.co/VptdDLM/line.png" />
         </mj-column>
         <mj-column>
           <mj-text>
@@ -112,7 +112,7 @@
             <div class="value">2x</div>
             <div class="advantage">faster running time</div>
           </mj-text>
-          <mj-image align="left" src="./img/line.png" />
+          <mj-image align="left" src="https://i.ibb.co/VptdDLM/line.png" />
         </mj-column>
       </mj-section>
     </mj-wrapper>
@@ -121,17 +121,17 @@
       <mj-group width="120px">
         <mj-column>
         <mj-button css-class="social" href="https://www.apple.com/ua/" target="_blank" padding="0" background-color="transparent">
-          <img src="./img/facebook.png" />
+          <img src="https://i.ibb.co/qDM9fYT/facebook.png" />
           </mj-button>
         </mj-column>
         <mj-column>
         <mj-button css-class="social" href="https://www.apple.com/ua/" target="_blank" padding="0" background-color="transparent">
-          <img src="./img/twitter.png" />
+          <img src="https://i.ibb.co/DfJb4hw/twitter.png" />
           </mj-button>
         </mj-column>
         <mj-column>
         <mj-button css-class="social" href="https://www.apple.com/ua/" target="_blank" padding="0" background-color="transparent">
-          <img src="./img/instagram.png" />
+          <img src="https://i.ibb.co/GvXQ2qb/instagram.png" />
           </mj-button>
         </mj-column>
       </mj-group>
